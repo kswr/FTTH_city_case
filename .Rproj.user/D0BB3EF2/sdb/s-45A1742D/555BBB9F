@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(shiny)\n\nui <- fluidPage(\n  \"a\"\n)\n\nserver <- function(input, output) {\n  \n}\n\nshinyApp(ui = ui, server = server)",
+    "created" : 1503340072863.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1732647778",
+    "id" : "555BBB9F",
+    "lastKnownWriteTime" : 1503340194,
+    "last_content_update" : 1503340218297,
+    "path" : "C:/Users/kswr/ws/data_science/projects/FTTH_city_case/app/app.R",
+    "project_path" : "app/app.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
